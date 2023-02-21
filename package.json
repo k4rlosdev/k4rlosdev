@@ -1,0 +1,24 @@
+{
+  "name": "k4rlosdev",
+  "version": "1.0.0",
+  "description": "README.md for Github profile.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k4rlosdev/k4rlosdev.git"
+  },
+  "keywords": [
+    "github",
+    "javascript",
+    "profile",
+    "readme.md"
+  ],
+  "author": "Carlos David Martinez Medrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k4rlosdev/k4rlosdev/issues"
+  },
+  "homepage": "https://github.com/k4rlosdev/k4rlosdev#readme"
+}
