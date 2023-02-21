@@ -42,16 +42,10 @@
 
   <h3>My latest posts</h3>
 
-  <figure style="display: -ms-grid;display: grid;grid-gap: 1rem;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));justify-items: center;margin: 0;padding: 0;">
-    <figure style="padding: 1rem;">
-      <img style="border-radius: 30px;height: auto;max-width: 100%;object-fit: cover;" crossorigin='anonymous' src='https://instagram.fsal1-1.fna.fbcdn.net/v/t51.2885-15/120057344_117570323254295_7644322987702459363_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fsal1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Cl11SBhxAYcAX9coi27&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD_gfza1ePzeiSQJ1PonT7DsAfP0GOFB1AgaYBAaDmhLA&oe=63FA6FDD&_nc_sid=8fd12b' />
-    </figure>
-    <figure style="padding: 1rem;">
-      <img style="border-radius: 30px;height: auto;max-width: 100%;object-fit: cover;" crossorigin='anonymous' src='./images/default.png' />
-    </figure>
-    <figure style="padding: 1rem;">
-      <img style="border-radius: 30px;height: auto;max-width: 100%;object-fit: cover;" crossorigin='anonymous' src='./images/default.png' />
-    </figure>
+  <div>
+    <img width="250px" height="300px" crossorigin='anonymous' src='https://instagram.fsal1-1.fna.fbcdn.net/v/t51.2885-15/120057344_117570323254295_7644322987702459363_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fsal1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Cl11SBhxAYcAX9coi27&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD_gfza1ePzeiSQJ1PonT7DsAfP0GOFB1AgaYBAaDmhLA&oe=63FA6FDD&_nc_sid=8fd12b' />
+    <img width="250px" height="300px" src='./images/default.png' />
+    <img width="250px" height="300px" src='./images/default.png' />
   </div>
 </div>
 
